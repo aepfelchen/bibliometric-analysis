@@ -1,5 +1,5 @@
 # Bibliometric analysis
-The purpose of this project is to analyze papers on the keyword of *letters* or *correspondences* from two scientific fields: the humanities and computer science.
+The purpose of this project is to analyze papers downloaded through Scopus
 
 # Data
 - The source data come from Scopus
